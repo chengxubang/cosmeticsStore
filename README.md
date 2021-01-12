@@ -30,22 +30,22 @@ jsp+servlet实战编写购物商城
 
 - 注册 
 
-![注册](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608777588968.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=RMiZUyVH7pQER%2FbPlBinLYLmWkI%3D)
+![注册](/image/注册.png)
 - 用户信息 
 
-![用户信息](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608777595480.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=d0txl7d2b5UxV5T75g3OiJbqRU0%3D)
+![用户信息](/image/用户信息.png)
 - 首页
 
-![首页](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608777595506.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=snV1Ao7bjxJYRvb7%2FSD8LsGKDdY%3D)
+![首页](/image/首页.png)
 - 商品列表
 
-![商品列表](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608777595483.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=uypQduNboDSCkX%2BjOrEEnxsESUk%3D)
+![商品列表](/image/商品列表.png)
 - 订单确认
 
-![订单确认](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608777595483.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=uypQduNboDSCkX%2BjOrEEnxsESUk%3D)
+![订单确认](/image/订单确认.png)
 - 后端-销售榜单
 
-![后端-销售榜单](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608777619959.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=DBUAthXFDIhZxqji3uPB08sZF%2FU%3D)
+![后端-销售榜单](/image/后端-销售榜单.png)
 
 
 重要代码:
@@ -160,7 +160,7 @@ public void doPost(HttpServletRequest request, HttpServletResponse response)thro
 ```
  
 3. 文字验证码生成
-![文字验证码生成](https://lrpimg.oss-cn-beijing.aliyuncs.com/21/1608778080064.png?Expires=3471264000&OSSAccessKeyId=LTAI4GEWgXJ37psoK3J8Kdmc&Signature=qdq3BNap5kPqaLZKZcVrkc4vcoM%3D)
+![文字验证码生成](文字验证.png)
 
 ```
 public void doGet(HttpServletRequest request, HttpServletResponse response)throws ServletException, IOException {
